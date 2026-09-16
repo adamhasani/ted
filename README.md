@@ -1,2 +1,3 @@
 # ted
-Tez
+
+Arsip kosong. Tidak ada kode aktif.
